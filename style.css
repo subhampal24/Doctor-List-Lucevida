@@ -271,6 +271,7 @@ td {
   width: min(500px, 100%);
   border-radius: 10px;
   padding: 30px;
+  margin-top: 60px;
 }
 
 .info-table {
@@ -292,6 +293,9 @@ td {
 .info-table td {
   padding: 8px 10px;
   color: var(--text);
+}
+#modalTitle{
+  margin: 0;
 }
 
 
@@ -380,6 +384,7 @@ td {
   
 }
 }
+
 
 
 
