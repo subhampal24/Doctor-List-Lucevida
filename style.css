@@ -295,7 +295,8 @@ td {
   color: var(--text);
 }
 #modalTitle{
-  margin: 0;
+  margin: 0 0 6px 0;
+  font-size: 24px;
 }
 
 
@@ -380,10 +381,11 @@ td {
     width: min(370px, 100%);
   }
   .info-table {
-  width: 110%;
+  width: 120%;
   
 }
 }
+
 
 
 
