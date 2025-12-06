@@ -115,30 +115,78 @@ function renderTable() {
   });
 }
 
+// function openModal(d) {
+//   document.getElementById("modalTitle").textContent = d.name;
+//   document.getElementById(
+//     "modalSub"
+//   ).textContent = `${d.specialty} • ${d.clinic}`;
+//   document.getElementById("modalBio").innerHTML = `
+//         <strong>Doctor Code:</strong> ${d.code || "N/A"}<br>
+//         <strong>Class:</strong> ${d.class || "N/A"}<br>
+//         <strong>Qualification:</strong> ${d.qualification || "N/A"}<br>
+//         <strong>Mobile:</strong> ${d.mobile || "N/A"}<br>
+//         <strong>Address:</strong> ${d.location || "N/A"}<br>
+//       `;
+//   document.getElementById("mdContact").innerHTML = `
+//         <strong>Map Location:</strong> ${
+//           d.mapLocation
+//             ? `<a href="${d.mapLocation}" target="_blank">View on map</a>`
+//             : "N/A"
+//         }
+//       `;
+
+//   const modal = document.getElementById("modalBackdrop");
+//   modal.style.display = "flex";
+//   setTimeout(() => (modal.style.opacity = "1"), 10);
+// }
+
 function openModal(d) {
   document.getElementById("modalTitle").textContent = d.name;
-  document.getElementById(
-    "modalSub"
-  ).textContent = `${d.specialty} • ${d.clinic}`;
-  document.getElementById("modalBio").innerHTML = `
-        <strong>Doctor Code:</strong> ${d.code || "N/A"}<br>
-        <strong>Class:</strong> ${d.class || "N/A"}<br>
-        <strong>Qualification:</strong> ${d.qualification || "N/A"}<br>
-        <strong>Mobile:</strong> ${d.mobile || "N/A"}<br>
-        <strong>Address:</strong> ${d.location || "N/A"}<br>
-      `;
-  document.getElementById("mdContact").innerHTML = `
-        <strong>Map Location:</strong> ${
-          d.mapLocation
-            ? `<a href="${d.mapLocation}" target="_blank">View on map</a>`
-            : "N/A"
-        }
-      `;
+  document.getElementById("modalSub").textContent = `${d.specialty} • ${d.clinic}`;
 
+  // Build table rows
+  const tableHTML = `
+    <table class="info-table">
+      <tr>
+        <th>Doctor Code:</th>
+        <td>${d.code || "N/A"}</td>
+      </tr>
+      <tr>
+        <th>Class:</th>
+        <td>${d.class || "N/A"}</td>
+      </tr>
+      <tr>
+        <th>Qualification:</th>
+        <td>${d.qualification || "N/A"}</td>
+      </tr>
+      <tr>
+        <th>Mobile:</th>
+        <td>${d.mobile || "N/A"}</td>
+      </tr>
+      <tr>
+        <th>Address:</th>
+        <td>${d.location || "N/A"}</td>
+      </tr>
+    </table>
+  `;
+
+  document.getElementById("modalBio").innerHTML = tableHTML;
+
+  // Map section stays separate
+  document.getElementById("mdContact").innerHTML = `
+    <strong>Map Location:</strong> ${
+      d.mapLocation
+        ? `<a href="${d.mapLocation}" target="_blank">View on map</a>`
+        : "N/A"
+    }
+  `;
+
+  // Show modal
   const modal = document.getElementById("modalBackdrop");
   modal.style.display = "flex";
   setTimeout(() => (modal.style.opacity = "1"), 10);
 }
+
 
 function closeModal() {
   const modal = document.getElementById("modalBackdrop");
@@ -147,3 +195,4 @@ function closeModal() {
 }
 
 loadData();
+
