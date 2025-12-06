@@ -375,7 +375,12 @@ td {
   .modal {
     width: min(370px, 100%);
   }
+  .info-table {
+  width: 110%;
+  
 }
+}
+
 
 
 
