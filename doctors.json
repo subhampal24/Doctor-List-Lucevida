@@ -31,7 +31,7 @@
     "specialty": "GENERAL PRAC",
     "qualification": "MBBS",
     "location": "BARASAT",
-    "clinic": "",
+    "clinic": "Ghosh Medical",
     "mobile": "",
     "mapLocation": "https://maps.app.goo.gl/77BB8dP1BVn3nVhu6"
   },
@@ -67,7 +67,7 @@
     "specialty": "GENERAL PRAC",
     "qualification": "DCH",
     "location": "BARASAT",
-    "clinic": "",
+    "clinic": "Srikrishna Medical",
     "mobile": "9830683998",
     "mapLocation": "https://maps.app.goo.gl/77BB8dP1BVn3nVhu6"
   },
@@ -79,7 +79,7 @@
     "specialty": "DENTAL",
     "qualification": "MDS",
     "location": "BARASAT",
-    "clinic": "",
+    "clinic": "Barasat DH",
     "mobile": "9434963133",
     "mapLocation": "https://maps.app.goo.gl/77BB8dP1BVn3nVhu6"
   },
@@ -91,7 +91,7 @@
     "specialty": "ORTHO",
     "qualification": "MS",
     "location": "BARASAT",
-    "clinic": "",
+    "clinic": "Monorama Medical",
     "mobile": "7278711797",
     "mapLocation": "https://maps.app.goo.gl/77BB8dP1BVn3nVhu6"
   },
@@ -103,7 +103,7 @@
     "specialty": "ORTHO",
     "qualification": "BPT",
     "location": "BARASAT",
-    "clinic": "",
+    "clinic": "Bishnupriya",
     "mobile": "9831608757",
     "mapLocation": "https://maps.app.goo.gl/77BB8dP1BVn3nVhu6"
   },
@@ -129,7 +129,7 @@
     "qualification": "MS",
     "location": "BARASAT",
     "clinic": "",
-    "mobile": "",
+    "mobile": "9830678290",
     "mapLocation": "https://maps.app.goo.gl/77BB8dP1BVn3nVhu6"
   },
   {
@@ -152,7 +152,7 @@
     "specialty": "DENTAL",
     "qualification": "BDS",
     "location": "BARASAT",
-    "clinic": "",
+    "clinic": "Barasat DH",
     "mobile": "",
     "mapLocation": "https://maps.app.goo.gl/77BB8dP1BVn3nVhu6"
   },
@@ -176,7 +176,7 @@
     "specialty": "ORTHO",
     "qualification": "MS",
     "location": "BARASAT",
-    "clinic": "",
+    "clinic": "Bishnupriya",
     "mobile": "7980344651",
     "mapLocation": "https://maps.app.goo.gl/77BB8dP1BVn3nVhu6"
   },
@@ -200,7 +200,7 @@
     "specialty": "DENTAL",
     "qualification": "MDS",
     "location": "BARASAT",
-    "clinic": "",
+    "clinic": "Barasat DH",
     "mobile": "9874393361",
     "mapLocation": "https://maps.app.goo.gl/77BB8dP1BVn3nVhu6"
   },
@@ -261,7 +261,7 @@
     "specialty": "PHYSICIAN",
     "qualification": "MD",
     "location": "BARASAT",
-    "clinic": "",
+    "clinic": "Bishnupriya",
     "mobile": "",
     "mapLocation": "https://maps.app.goo.gl/77BB8dP1BVn3nVhu6"
   },
@@ -273,7 +273,7 @@
     "specialty": "PHYSICIAN",
     "qualification": "MD",
     "location": "BARASAT",
-    "clinic": "",
+    "clinic": "Dr.Lal Pathlab",
     "mobile": "",
     "mapLocation": "https://maps.app.goo.gl/77BB8dP1BVn3nVhu6"
   },
@@ -1700,3 +1700,4 @@
     "mapLocation": "https://maps.app.goo.gl/77BB8dP1BVn3nVhu6"
   }
 ]
+
