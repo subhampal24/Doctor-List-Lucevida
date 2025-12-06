@@ -83,16 +83,13 @@ function renderTable() {
     .map(
       (d) => `
         <tr>
-          <td class="doctor-name">${d.name}</td>
+          <td class="doctor-name" data-id="${d.id}" data-action="details" style="cursor:pointer">${d.name}</td>
           <td>${d.location}</td>
           <td>${d.clinic}</td>
           <td>${d.specialty}</td>
-          <td>
-            <button class="btn primary" data-id="${d.id}" data-action="map">Map</button>
-          </td>
-          <td>
-            <button class="btn primary" data-id="${d.id}" data-action="details">View More</button>
-          </td>
+          <td class="map_btn">
+            <button class="btn primary" data-id="${d.id}" data-action="map">Direction</button>
+          </td>   
         </tr>
       `
     )
@@ -106,6 +103,14 @@ function renderTable() {
         if (doc.mapLocation) window.open(doc.mapLocation, "_blank");
         else alert("Map location not available");
       }
+    });
+  });
+
+  tableBody.querySelectorAll(".doctor-name[data-id]").forEach((cell) => {
+    cell.addEventListener("click", (e) => {
+      const id = e.target.dataset.id;
+      const doc = doctors.find((x) => x.id == id);
+      openModal(doc);
     });
   });
 }

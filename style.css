@@ -199,7 +199,7 @@ thead th {
 }
 
 tbody .doctor-name {
-  padding: 20px 12px;
+  padding: 14px 0px 14px 10px;
 }
 
 tbody tr {
@@ -216,7 +216,7 @@ tbody tr:hover {
 }
 
 td {
-  padding: 6px 8px;
+  padding: 0px 10px;
   border: 1px solid rgba(0, 0, 0, 0.08) !important;
 }
 
@@ -239,10 +239,14 @@ td {
 .btn {
   background: transparent;
   border: 1px solid var(--accent);
-  padding: 8px 12px;
+  padding: 8px 20px;
   border-radius: 10px;
   cursor: pointer;
   font-weight: 600;
+}
+
+.map_btn {
+  text-align: center;
 }
 
 .btn.primary {
