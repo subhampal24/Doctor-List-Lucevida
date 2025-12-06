@@ -275,21 +275,22 @@ td {
 
 .info-table {
   margin-top: 12px;
-  width: 100%;
+  width: 160%;
   border-collapse: collapse;
   font-size: 14px;
 }
 
 .info-table th {
   text-align: left;
-  padding: 6px 0;
+  padding: 8px 10px;
   width: 130px;
   color: var(--text-muted);
   font-weight: 600;
+  border: 1px solid rgba(0, 0, 0, 0.08) !important;
 }
 
 .info-table td {
-  padding: 6px 0;
+  padding: 8px 10px;
   color: var(--text);
 }
 
@@ -375,5 +376,6 @@ td {
     width: min(370px, 100%);
   }
 }
+
 
 
