@@ -273,9 +273,26 @@ td {
   padding: 30px;
 }
 
-.modal h3 {
-  margin: 0 0 10px 0px;
+.info-table {
+  margin-top: 12px;
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 14px;
 }
+
+.info-table th {
+  text-align: left;
+  padding: 6px 0;
+  width: 130px;
+  color: var(--text-muted);
+  font-weight: 600;
+}
+
+.info-table td {
+  padding: 6px 0;
+  color: var(--text);
+}
+
 
 /* ------------------------------------
            MOBILE RESPONSIVE
@@ -358,4 +375,5 @@ td {
     width: min(370px, 100%);
   }
 }
+
 
