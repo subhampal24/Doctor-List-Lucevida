@@ -9,7 +9,7 @@
     "location": "BANGAON",
     "clinic": "",
     "mobile": "",
-    "mapLocation": "https://maps.app.goo.gl/77BB8dP1BVn3nVhu6"
+    "mapLocation": ""
   },
   {
     "id": 2,
@@ -21,7 +21,7 @@
     "location": "BANGAON",
     "clinic": "",
     "mobile": "",
-    "mapLocation": "https://maps.app.goo.gl/77BB8dP1BVn3nVhu6"
+    "mapLocation": ""
   },
   {
     "id": 3,
@@ -33,7 +33,7 @@
     "location": "BARASAT",
     "clinic": "Ghosh Medical",
     "mobile": "",
-    "mapLocation": "https://maps.app.goo.gl/77BB8dP1BVn3nVhu6"
+    "mapLocation": "https://maps.app.goo.gl/MHw5GoYM9DZMZGi16"
   },
   {
     "id": 4,
@@ -43,9 +43,9 @@
     "specialty": "GYNAE",
     "qualification": "MBBS",
     "location": "BARASAT",
-    "clinic": "",
+    "clinic": "Own Complex",
     "mobile": "",
-    "mapLocation": "https://maps.app.goo.gl/77BB8dP1BVn3nVhu6"
+    "mapLocation": "https://maps.app.goo.gl/rq7DFaAyGGASQbAx8"
   },
   {
     "id": 5,
@@ -69,7 +69,7 @@
     "location": "BARASAT",
     "clinic": "Srikrishna Medical",
     "mobile": "9830683998",
-    "mapLocation": "https://maps.app.goo.gl/77BB8dP1BVn3nVhu6"
+    "mapLocation": "https://maps.app.goo.gl/WaMGq1sehSYq6aZJ7"
   },
   {
     "id": 7,
@@ -81,7 +81,7 @@
     "location": "BARASAT",
     "clinic": "Barasat DH",
     "mobile": "9434963133",
-    "mapLocation": "https://maps.app.goo.gl/77BB8dP1BVn3nVhu6"
+    "mapLocation": "https://maps.app.goo.gl/X6o8GZGgsF2cTcLP6"
   },
   {
     "id": 8,
@@ -91,9 +91,9 @@
     "specialty": "ORTHO",
     "qualification": "MS",
     "location": "BARASAT",
-    "clinic": "Monorama Medical",
+    "clinic": "Monorama Pharmecy",
     "mobile": "7278711797",
-    "mapLocation": "https://maps.app.goo.gl/77BB8dP1BVn3nVhu6"
+    "mapLocation": "https://maps.app.goo.gl/ZEuAVogUNp3ZBVBk7"
   },
   {
     "id": 9,
@@ -103,9 +103,9 @@
     "specialty": "ORTHO",
     "qualification": "BPT",
     "location": "BARASAT",
-    "clinic": "Bishnupriya",
+    "clinic": "Bishnupriya Poly Clinic & Diagnostic Center",
     "mobile": "9831608757",
-    "mapLocation": "https://maps.app.goo.gl/77BB8dP1BVn3nVhu6"
+    "mapLocation": "https://maps.app.goo.gl/GQpnbsvDMKyZSj718"
   },
   {
     "id": 10,
@@ -117,7 +117,7 @@
     "location": "BARASAT",
     "clinic": "",
     "mobile": "",
-    "mapLocation": "https://maps.app.goo.gl/77BB8dP1BVn3nVhu6"
+    "mapLocation": ""
   },
 
   {
@@ -128,9 +128,9 @@
     "specialty": "ORTHO",
     "qualification": "MS",
     "location": "BARASAT",
-    "clinic": "",
+    "clinic": "Own Complex",
     "mobile": "9830678290",
-    "mapLocation": "https://maps.app.goo.gl/77BB8dP1BVn3nVhu6"
+    "mapLocation": "https://maps.app.goo.gl/CaGyjLntBQMMLjMD7"
   },
   {
     "id": 12,
@@ -142,7 +142,7 @@
     "location": "BARASAT",
     "clinic": "",
     "mobile": "",
-    "mapLocation": "https://maps.app.goo.gl/77BB8dP1BVn3nVhu6"
+    "mapLocation": ""
   },
   {
     "id": 13,
@@ -154,7 +154,7 @@
     "location": "BARASAT",
     "clinic": "Barasat DH",
     "mobile": "",
-    "mapLocation": "https://maps.app.goo.gl/77BB8dP1BVn3nVhu6"
+    "mapLocation": "https://maps.app.goo.gl/X6o8GZGgsF2cTcLP6"
   },
   {
     "id": 14,
@@ -166,7 +166,7 @@
     "location": "BARASAT",
     "clinic": "",
     "mobile": "9830147378",
-    "mapLocation": "https://maps.app.goo.gl/77BB8dP1BVn3nVhu6"
+    "mapLocation": ""
   },
   {
     "id": 15,
@@ -176,9 +176,9 @@
     "specialty": "ORTHO",
     "qualification": "MS",
     "location": "BARASAT",
-    "clinic": "Bishnupriya",
+    "clinic": "Bishnupriya Poly Clinic & Diagnostic Center",
     "mobile": "7980344651",
-    "mapLocation": "https://maps.app.goo.gl/77BB8dP1BVn3nVhu6"
+    "mapLocation": "https://maps.app.goo.gl/GQpnbsvDMKyZSj718"
   },
   {
     "id": 16,
@@ -190,7 +190,7 @@
     "location": "BARASAT",
     "clinic": "",
     "mobile": "9830056725",
-    "mapLocation": "https://maps.app.goo.gl/77BB8dP1BVn3nVhu6"
+    "mapLocation": ""
   },
   {
     "id": 17,
@@ -202,7 +202,7 @@
     "location": "BARASAT",
     "clinic": "Barasat DH",
     "mobile": "9874393361",
-    "mapLocation": "https://maps.app.goo.gl/77BB8dP1BVn3nVhu6"
+    "mapLocation": "https://maps.app.goo.gl/X6o8GZGgsF2cTcLP6"
   },
   {
     "id": 18,
@@ -212,9 +212,9 @@
     "specialty": "ENT",
     "qualification": "DLO MS",
     "location": "BARASAT",
-    "clinic": "",
+    "clinic": "Specialist Clinic & Diagnostic",
     "mobile": "",
-    "mapLocation": "https://maps.app.goo.gl/77BB8dP1BVn3nVhu6"
+    "mapLocation": "https://maps.app.goo.gl/MgjeuaixDnE35ncJ6"
   },
   {
     "id": 19,
@@ -226,7 +226,7 @@
     "location": "BARASAT",
     "clinic": "",
     "mobile": "",
-    "mapLocation": "https://maps.app.goo.gl/77BB8dP1BVn3nVhu6"
+    "mapLocation": ""
   },
   {
     "id": 20,
@@ -236,9 +236,9 @@
     "specialty": "GENERAL PRAC",
     "qualification": "MBBS",
     "location": "BARASAT",
-    "clinic": "",
+    "clinic": "Banerjee Medical Hall",
     "mobile": "",
-    "mapLocation": "https://maps.app.goo.gl/77BB8dP1BVn3nVhu6"
+    "mapLocation": "https://maps.app.goo.gl/vM2dqriVKYERC8rNA"
   },
 
   {
@@ -261,9 +261,9 @@
     "specialty": "PHYSICIAN",
     "qualification": "MD",
     "location": "BARASAT",
-    "clinic": "Bishnupriya",
+    "clinic": "Bishnupriya Poly Clinic & Diagnostic Center",
     "mobile": "",
-    "mapLocation": "https://maps.app.goo.gl/77BB8dP1BVn3nVhu6"
+    "mapLocation": "https://maps.app.goo.gl/GQpnbsvDMKyZSj718"
   },
   {
     "id": 23,
@@ -1700,4 +1700,5 @@
     "mapLocation": "https://maps.app.goo.gl/77BB8dP1BVn3nVhu6"
   }
 ]
+
 
