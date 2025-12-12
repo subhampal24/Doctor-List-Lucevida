@@ -828,9 +828,9 @@
     "specialty": ",MBBS",
     "qualification": "MBBS",
     "location": "ASHOKNAGAR KALYANGARH",
-    "clinic": "",
+    "clinic": "Normal Shop",
     "mobile": "",
-    "mapLocation": ""
+    "mapLocation": "https://maps.app.goo.gl/o4ftMHJND4DGC2mf6"
   },
   {
     "id": 70,
@@ -865,9 +865,9 @@
     "specialty": "GENERAL PHYSICIAN",
     "qualification": "B. PHARMA",
     "location": "ASHOKNAGAR KALYANGARH",
-    "clinic": "",
+    "clinic": "Own Complex",
     "mobile": "",
-    "mapLocation": ""
+    "mapLocation": "https://maps.app.goo.gl/TC8N5mzRqo63aVaK8"
   },
   {
     "id": 73,
@@ -877,9 +877,9 @@
     "specialty": "GENERAL PRACTITIONER",
     "qualification": "MD",
     "location": "ASHOKNAGAR KALYANGARH",
-    "clinic": "",
+    "clinic": "Sasthyadip Pharmacy",
     "mobile": "",
-    "mapLocation": ""
+    "mapLocation": "https://maps.app.goo.gl/n9pUbEqACGvZbHS26"
   },
   {
     "id": 74,
@@ -925,9 +925,9 @@
     "specialty": "GENERAL PHYSICIAN",
     "qualification": "RMP",
     "location": "ASHOKNAGAR KALYANGARH",
-    "clinic": "",
+    "clinic": "Mitra Medical",
     "mobile": "",
-    "mapLocation": ""
+    "mapLocation": "https://maps.app.goo.gl/ZkCabuZw6W9N5mDQA"
   },
   {
     "id": 78,
@@ -961,9 +961,9 @@
     "specialty": "MBBS",
     "qualification": "MBBS",
     "location": "ASHOKNAGAR KALYANGARH",
-    "clinic": "",
+    "clinic": "Sabdalpur BPHC",
     "mobile": "",
-    "mapLocation": ""
+    "mapLocation": "https://maps.app.goo.gl/YywamfzZNezsb6fr5"
   },
 
   {
@@ -1275,9 +1275,9 @@
     "specialty": "MBBS",
     "qualification": "MBBS",
     "location": "ASHOKNAGAR KALYANGARH",
-    "clinic": "INSAAT PHARMACY",
+    "clinic": "",
     "mobile": "9432961357",
-    "mapLocation": ""
+    "mapLocation": "https://maps.app.goo.gl/kSiiY9rqAEnva5bu6"
   },
   {
     "id": 107,
@@ -1700,6 +1700,7 @@
     "mapLocation": ""
   }
 ]
+
 
 
 
