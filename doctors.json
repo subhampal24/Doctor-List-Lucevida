@@ -855,7 +855,7 @@
     "location": "ASHOKNAGAR KALYANGARH",
     "clinic": "",
     "mobile": "",
-    "mapLocation": ""
+    "mapLocation": "https://maps.app.goo.gl/GbS4YrPiRpxJhWju5"
   },
   {
     "id": 72,
@@ -1700,6 +1700,7 @@
     "mapLocation": ""
   }
 ]
+
 
 
 
