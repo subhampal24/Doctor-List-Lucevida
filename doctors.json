@@ -430,9 +430,9 @@
     "specialty": "PEDIA",
     "qualification": "DCH",
     "location": "HABRA",
-    "clinic": "",
+    "clinic": "Own Complex",
     "mobile": "9434021889",
-    "mapLocation": ""
+    "mapLocation": "https://maps.app.goo.gl/e8oYvf136gyiwedb8"
   },
   {
     "id": 37,
@@ -825,7 +825,7 @@
     "name": "ABHIJIT GHOSH",
     "code": "C15592",
     "class": "VID",
-    "specialty": ",MBBS",
+    "specialty": "MBBS",
     "qualification": "MBBS",
     "location": "ASHOKNAGAR KALYANGARH",
     "clinic": "Normal Shop",
@@ -1683,9 +1683,9 @@
     "specialty": "G.P",
     "qualification": "MBBS",
     "location": "ASHOKNAGAR KALYANGARH",
-    "clinic": "",
+    "clinic": "Dr Sadhan Sen Memorial",
     "mobile": "9854688664",
-    "mapLocation": ""
+    "mapLocation": "https://maps.app.goo.gl/q1VwzWoAqgJxkRRD9"
   },
   {
     "id": 141,
@@ -1700,6 +1700,7 @@
     "mapLocation": ""
   }
 ]
+
 
 
 
