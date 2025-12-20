@@ -91,7 +91,7 @@
     "specialty": "ORTHO",
     "qualification": "MS",
     "location": "BARASAT",
-    "clinic": "Monorama Pharmecy",
+    "clinic": "Monorama Pharmacy",
     "mobile": "7278711797",
     "mapLocation": "https://maps.app.goo.gl/ZEuAVogUNp3ZBVBk7"
   },
@@ -1575,7 +1575,7 @@
     "specialty": "GYNAE",
     "qualification": "MBBS",
     "location": "BARASAT",
-    "clinic": "BNJ Pharmecy",
+    "clinic": "BNJ Pharmacy",
     "mobile": "",
     "mapLocation": ""
   },
@@ -1700,6 +1700,7 @@
     "mapLocation": ""
   }
 ]
+
 
 
 
