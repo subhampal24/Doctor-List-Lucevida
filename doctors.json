@@ -394,7 +394,7 @@
     "specialty": "PHYSICIAN",
     "qualification": "MD",
     "location": "HABRA",
-    "clinic": "Own Shop",
+    "clinic": "Normal Shop",
     "mobile": "9434203194",
     "mapLocation": "https://maps.app.goo.gl/Nsh8a3CPcM41cQCo9"
   },
@@ -1275,7 +1275,7 @@
     "specialty": "MBBS",
     "qualification": "MBBS",
     "location": "ASHOKNAGAR KALYANGARH",
-    "clinic": "Shop",
+    "clinic": "Normal Shop",
     "mobile": "9432961357",
     "mapLocation": "https://maps.app.goo.gl/s2acBNScX6o4jGMd6"
   },
@@ -1700,6 +1700,7 @@
     "mapLocation": ""
   }
 ]
+
 
 
 
