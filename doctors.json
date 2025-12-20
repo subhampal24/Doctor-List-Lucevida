@@ -1323,9 +1323,9 @@
     "specialty": "BDS",
     "qualification": "BDS",
     "location": "HABRA",
-    "clinic": "AMRITA PHARMACY BANIPUR",
+    "clinic": "The Amrit Pharmacy",
     "mobile": "9609682252",
-    "mapLocation": ""
+    "mapLocation": "https://maps.app.goo.gl/WkTEmaiKvE4g9hqg7"
   },
   {
     "id": 111,
@@ -1335,9 +1335,9 @@
     "specialty": "MD",
     "qualification": "MD",
     "location": "HABRA",
-    "clinic": "AMRITA PHARMACY",
+    "clinic": "The Amrit Pharmacy",
     "mobile": "9474853722",
-    "mapLocation": ""
+    "mapLocation": "https://maps.app.goo.gl/WkTEmaiKvE4g9hqg7"
   },
   {
     "id": 112,
@@ -1700,6 +1700,7 @@
     "mapLocation": ""
   }
 ]
+
 
 
 
