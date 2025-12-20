@@ -408,7 +408,7 @@
     "location": "BANGAON",
     "clinic": "",
     "mobile": "",
-    "mapLocation": ""
+    "mapLocation": "https://maps.app.goo.gl/L39vvaV6JqPRqPfDA"
   },
   {
     "id": 35,
@@ -480,7 +480,7 @@
     "location": "BANGAON",
     "clinic": "",
     "mobile": "9434190831",
-    "mapLocation": ""
+    "mapLocation": "https://maps.app.goo.gl/mLSwaPEc622EewVz6"
   },
 
   {
@@ -1700,6 +1700,7 @@
     "mapLocation": ""
   }
 ]
+
 
 
 
