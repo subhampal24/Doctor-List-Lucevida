@@ -611,9 +611,9 @@
     "specialty": "PEDIA",
     "qualification": "DCH",
     "location": "BARASAT",
-    "clinic": "",
+    "clinic": "Gouri Medical",
     "mobile": "9433096535",
-    "mapLocation": ""
+    "mapLocation": "https://maps.app.goo.gl/dHzM6TCK8TeBgpPR7"
   },
   {
     "id": 52,
@@ -1700,6 +1700,7 @@
     "mapLocation": ""
   }
 ]
+
 
 
 
