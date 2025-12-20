@@ -321,9 +321,9 @@
     "specialty": "GYNAE",
     "qualification": "DGO",
     "location": "HABRA",
-    "clinic": "",
+    "clinic": "Saptarshi Nursing Home",
     "mobile": "",
-    "mapLocation": ""
+    "mapLocation": "https://maps.app.goo.gl/ajgEBSwybS67rnAc6"
   },
   {
     "id": 28,
@@ -333,9 +333,9 @@
     "specialty": "DENTAL",
     "qualification": "BDS",
     "location": "HABRA",
-    "clinic": "",
+    "clinic": "Radharani Medical",
     "mobile": "",
-    "mapLocation": ""
+    "mapLocation": "https://maps.app.goo.gl/HEbyBUgGE2z1eypV9"
   },
   {
     "id": 29,
@@ -345,21 +345,21 @@
     "specialty": "GYNAE",
     "qualification": "DGO MD",
     "location": "HABRA",
-    "clinic": "",
+    "clinic": "Saptarshi Nursing Home",
     "mobile": "",
-    "mapLocation": ""
+    "mapLocation": "https://maps.app.goo.gl/ajgEBSwybS67rnAc6"
   },
   {
     "id": 30,
     "name": "TAPAS GHOSH",
     "code": "C12092",
     "class": "VID",
-    "specialty": "DENTAL",
+    "specialty": "BDS",
     "qualification": "MDS",
     "location": "HABRA",
-    "clinic": "",
+    "clinic": "Keya Optical",
     "mobile": "",
-    "mapLocation": ""
+    "mapLocation": "https://maps.app.goo.gl/GowYbYi9Lk5mui1K7"
   },
 
   {
@@ -1700,6 +1700,7 @@
     "mapLocation": ""
   }
 ]
+
 
 
 
