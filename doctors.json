@@ -493,7 +493,7 @@
     "location": "BANGAON",
     "clinic": "",
     "mobile": "9433185438",
-    "mapLocation": ""
+    "mapLocation": "https://maps.app.goo.gl/ZBCst8zyaSy8Kmb47"
   },
   {
     "id": 42,
@@ -756,9 +756,9 @@
     "specialty": "ORTHO",
     "qualification": "MS",
     "location": "BANGAON",
-    "clinic": "",
+    "clinic": "Amor Medical Hall",
     "mobile": "",
-    "mapLocation": ""
+    "mapLocation": "https://maps.app.goo.gl/kD5b9oDyVwvs7XUPA"
   },
   {
     "id": 64,
@@ -1700,6 +1700,7 @@
     "mapLocation": ""
   }
 ]
+
 
 
 
