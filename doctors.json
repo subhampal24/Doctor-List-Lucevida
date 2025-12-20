@@ -1275,9 +1275,9 @@
     "specialty": "MBBS",
     "qualification": "MBBS",
     "location": "ASHOKNAGAR KALYANGARH",
-    "clinic": "",
+    "clinic": "Shop",
     "mobile": "9432961357",
-    "mapLocation": "https://maps.app.goo.gl/kSiiY9rqAEnva5bu6"
+    "mapLocation": "https://maps.app.goo.gl/s2acBNScX6o4jGMd6"
   },
   {
     "id": 107,
@@ -1700,6 +1700,7 @@
     "mapLocation": ""
   }
 ]
+
 
 
 
