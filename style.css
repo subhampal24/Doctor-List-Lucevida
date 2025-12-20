@@ -276,7 +276,7 @@ td {
 
 .info-table {
   margin-top: 12px;
-  width: 130%;
+  width: 100%;
   border-collapse: collapse;
   font-size: 14px;
 }
@@ -380,11 +380,8 @@ td {
   .modal {
     width: min(370px, 100%);
   }
-  .info-table {
-  width: 100%;
-  
 }
-}
+
 
 
 
