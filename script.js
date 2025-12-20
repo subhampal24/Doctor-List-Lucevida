@@ -83,6 +83,7 @@ function renderTable() {
     .map(
       (d) => `
         <tr>
+          <td>${d.id}</td>
           <td class="doctor-name" data-id="${d.id}" data-action="details" style="cursor:pointer">${d.name}</td>
           <td>${d.location}</td>
           <td>${d.clinic}</td>
@@ -195,4 +196,5 @@ function closeModal() {
 }
 
 loadData();
+
 
