@@ -1503,9 +1503,9 @@
     "specialty": "MBBS",
     "qualification": "MBBS",
     "location": "ASHOKNAGAR KALYANGARH",
-    "clinic": "",
+    "clinic": "Upasham Pharmacy",
     "mobile": "",
-    "mapLocation": ""
+    "mapLocation": "https://maps.app.goo.gl/e8dsy3PBZU9r94Yc8"
   },
   {
     "id": 126,
@@ -1700,6 +1700,7 @@
     "mapLocation": ""
   }
 ]
+
 
 
 
