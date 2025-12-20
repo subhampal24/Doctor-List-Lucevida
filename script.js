@@ -85,9 +85,9 @@ function renderTable() {
         <tr>
           <td>${d.id}</td>
           <td class="doctor-name" data-id="${d.id}" data-action="details" style="cursor:pointer">${d.name}</td>
-          <td>${d.location}</td>
-          <td>${d.clinic}</td>
           <td>${d.specialty}</td>
+          <td>${d.location}</td>
+          <td>${d.clinic}</td>        
           <td class="map_btn">
             <button class="btn primary" data-id="${d.id}" data-action="map">Direction</button>
           </td>   
@@ -196,5 +196,6 @@ function closeModal() {
 }
 
 loadData();
+
 
 
