@@ -753,7 +753,7 @@
     "name": "SWAPAN MAJUMDAR",
     "code": "C13794",
     "class": "VID",
-    "specialty": "MS ORTHO",
+    "specialty": "ORTHO",
     "qualification": "MS",
     "location": "BANGAON",
     "clinic": "",
@@ -777,7 +777,7 @@
     "name": "GAORAB KUNDU",
     "code": "GNV15539",
     "class": "VIP",
-    "specialty": "GENRAL SUR",
+    "specialty": "SUR",
     "qualification": "MS",
     "location": "BARASAT",
     "clinic": "Specialist Clinic & Diagnostic, Dr.Lal Pathlab",
@@ -946,7 +946,7 @@
     "name": "SANJIB GHOSH",
     "code": "C15605",
     "class": "VID",
-    "specialty": "MS ORTHO",
+    "specialty": "ORTHO",
     "qualification": "M.S. Ortho",
     "location": "ASHOKNAGAR KALYANGARH",
     "clinic": "",
@@ -1031,8 +1031,8 @@
     "name": "DEBLINA MAJUMDER",
     "code": "C16938",
     "class": "VID",
-    "specialty": "B.D.S.",
-    "qualification": "B D S",
+    "specialty": "BDS",
+    "qualification": "BDS",
     "location": "BARASAT",
     "clinic": "",
     "mobile": "",
@@ -1236,7 +1236,7 @@
     "name": "JISHUDEB HALDER",
     "code": "10C19139",
     "class": "VID",
-    "specialty": "MS ORTHO",
+    "specialty": "ORTHO",
     "qualification": "MS",
     "location": "BARASAT",
     "clinic": "MEDICARE",
@@ -1464,7 +1464,7 @@
     "name": "Soumitra Mridha",
     "code": "C19504",
     "class": "VID",
-    "specialty": "MS ORTHO",
+    "specialty": "ORTHO",
     "qualification": "MS",
     "location": "BARASAT",
     "clinic": "",
@@ -1700,6 +1700,7 @@
     "mapLocation": ""
   }
 ]
+
 
 
 
