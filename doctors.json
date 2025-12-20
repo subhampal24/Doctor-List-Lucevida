@@ -466,9 +466,9 @@
     "specialty": "G.P",
     "qualification": "RMP",
     "location": "BANGAON",
-    "clinic": "",
+    "clinic": "Own Complex",
     "mobile": "9378396163",
-    "mapLocation": ""
+    "mapLocation": "https://maps.app.goo.gl/7KqGEmytR5JKf41Y7"
   },
   {
     "id": 40,
@@ -1700,6 +1700,7 @@
     "mapLocation": ""
   }
 ]
+
 
 
 
